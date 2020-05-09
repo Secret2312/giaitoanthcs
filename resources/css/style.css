@@ -167,6 +167,7 @@ header{
     box-shadow: 3px 5px 10px #7ae99b;
     width: 110%;
     height: 550px;
+    border-radius: 20px;
 }
 .sochuong{
     color: #265077;
